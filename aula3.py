@@ -1,0 +1,6 @@
+print(1234)
+print('1234')
+print("Gustavo \"Godoy\"")
+print(r"Gustavo \"Godoy\"")
+print('Gustavo "Godoy"')
+print("Gustavo 'Godoy'")
